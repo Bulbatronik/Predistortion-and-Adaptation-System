@@ -1,7 +1,7 @@
 
 <h1 align="center">Predistortion and Adaptation System Project</h1>
 
-Developed with Esat Ince and Kenan Korhan Odabas.
+*Developed with Esat Ince and Kenan Korhan Odabas.*
 # Digital Communication 2 Project
 
 Welcome to the Digital Communications 2 project repository offered at Politecnico di Milano! This project aims to design a Predistortion and Adaptation System using MATLAB/Simulink to compensate for the distortion caused by non-linearity in an amplifier. By employing a pre-distorter before the amplifier, we can mitigate its non-linearity and achieve signal linearization within a specified region. The adaptation process ensures the proper adjustment of pre-distorter gain to achieve optimal performance. The idea and the theory behind the project are available [here](Guidelines).
